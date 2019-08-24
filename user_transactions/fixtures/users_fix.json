@@ -1,0 +1,82 @@
+[
+{
+    "model": "user_transactions.customuser",
+    "pk": 7,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "BobSmith",
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "email": "bob@smith.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2019-08-24T11:55:56.417Z",
+        "inn": "566798362605",
+        "balance": 12000.46,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user_transactions.customuser",
+    "pk": 8,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "PetrIvanov",
+        "first_name": "Petr",
+        "last_name": "Ivanov",
+        "email": "ivanov@petr.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2019-08-24T11:57:12.759Z",
+        "inn": "275472969038",
+        "balance": 1000.0,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user_transactions.customuser",
+    "pk": 9,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "MarkIsaev",
+        "first_name": "Mark",
+        "last_name": "Isaev",
+        "email": "isaev@mark.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2019-08-24T11:58:41.700Z",
+        "inn": "441274000593",
+        "balance": 540.38,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "user_transactions.customuser",
+    "pk": 10,
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "VladGavrilov",
+        "first_name": "Vlad",
+        "last_name": "Gavrilov",
+        "email": "vlad@gavrilov.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2019-08-24T12:50:49.272Z",
+        "inn": "441274000593",
+        "balance": 650.0,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
